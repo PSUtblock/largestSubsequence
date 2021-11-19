@@ -1,3 +1,6 @@
+import 'html-console-output';
+require('html-console-output');
+
 //importing other javascript files
 const dynamic = require("./dynamic");
 const brute = require("./bruteForce");
